@@ -12,3 +12,4 @@ g=d*f;
 j=g*d;
 N=j*g;
 V=N;
+B=V;
