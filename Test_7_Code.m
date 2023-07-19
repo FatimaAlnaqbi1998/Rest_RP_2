@@ -10,3 +10,4 @@ f=r*y;
 d=r*f;
 g=d*f;
 j=g*d;
+N=j*g;
